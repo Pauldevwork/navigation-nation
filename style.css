@@ -2,11 +2,11 @@
 
 :root {
   --primaryColor: #fff;
-  --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor1: #734C8F;
+  --navColor2: #9576AB;
+  --navColor3: #A45287;
+  --navColor4: #C583AE;
+  --navColor5: #42002B;
 }
 
 html {
